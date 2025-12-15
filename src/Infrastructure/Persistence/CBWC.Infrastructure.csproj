@@ -20,11 +20,8 @@
     <PackageReference Include="System.DirectoryServices" Version="8.0.0" />
   </ItemGroup>
 
-  <ItemGroup>    <ProjectReference Include="..\..\..\Core\CBWC.Application\CBWC.Application.csproj" />
-  </ItemGroup>
-
   <ItemGroup>
-    <Folder Include="Persistence\Services\" />
+    <ProjectReference Include="..\..\Core\CBWC.Application\CBWC.Application.csproj" />
   </ItemGroup>
 
 </Project>

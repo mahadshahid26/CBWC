@@ -5,7 +5,7 @@
     <Project Path="src/Core/CBWC.Domain/CBWC.Domain.csproj" />
   </Folder>
   <Folder Name="/src/Infrastructure/">
-    <Project Path="src/Infrastructure/Persistence/CBWC.Infrastructure.Persistence/CBWC.Infrastructure.csproj" />
+    <Project Path="src/Infrastructure/Persistence/CBWC.Infrastructure.csproj" />
   </Folder>
   <Folder Name="/src/Presentation/">
     <Project Path="src/Presentation/CBWC.API/CBWC.API.csproj" />
