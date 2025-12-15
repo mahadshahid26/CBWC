@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/Core/">
+    <Project Path="src/Core/CBWC.Application/CBWC.Application.csproj" />
+    <Project Path="src/Core/CBWC.Domain/CBWC.Domain.csproj" />
+  </Folder>
+  <Folder Name="/src/Infrastructure/">
+    <Project Path="src/Infrastructure/Persistence/CBWC.Infrastructure.Persistence/CBWC.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/src/Presentation/">
+    <Project Path="src/Presentation/CBWC.API/CBWC.API.csproj" />
+  </Folder>
+</Solution>
