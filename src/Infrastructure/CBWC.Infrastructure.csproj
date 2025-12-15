@@ -21,7 +21,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\Core\CBWC.Application\CBWC.Application.csproj" />
+    <ProjectReference Include="..\Core\CBWC.Application\CBWC.Application.csproj" />
   </ItemGroup>
 
 </Project>
