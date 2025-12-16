@@ -5,7 +5,7 @@ using System.Reflection;
 
 namespace CBWC.Application;
 
-public static class ServiceCollectionExtensions
+public static class Registration
 {
     public static void AddApplicationServicesForApi(this IServiceCollection services, IConfiguration configuration)
     {

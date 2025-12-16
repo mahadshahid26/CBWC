@@ -1,11 +1,10 @@
 using Asp.Versioning;
 using CBWC.API.Infrastructure;
 using Correlate.DependencyInjection;
-using Hangfire;
 
 namespace CBWC.API;
 
-public static class ServiceCollectionExtensions
+public static class Registration
 {
     #region Api Versioning
 

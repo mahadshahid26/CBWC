@@ -6,7 +6,7 @@ using Microsoft.Extensions.DependencyInjection;
 
 namespace CBWC.Infrastructure.Persistence;
 
-public static class ServiceCollectionExtensions
+public static class Registration
 {
     public static IServiceCollection AddPersistence(
         this IServiceCollection services,
